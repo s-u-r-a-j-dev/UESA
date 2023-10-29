@@ -1,0 +1,12 @@
+# SQLite database
+sqlite3
+
+# Random data shuffling
+random
+
+# SQLite connectivity
+pysqlite3
+
+# Pandas for data manipulation
+pandas
+
